@@ -7,7 +7,7 @@
         },
         "test": {},
         "dev": {
-            "cache": false
+            "cache": true
         }
     }
 }
